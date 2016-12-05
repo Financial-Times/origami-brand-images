@@ -8,7 +8,7 @@ As with all image sets, these are available via the [Image Service](https://www.
 
 To get a brand image from the Image Service, use the following URL (replace the `product_source` with your product name and `brand_name` with the brand you want)
 
-`https://www.ft.com/__origami/service/image/v2/images/raw/ftbrand:{brand_name}?source={product_source}`
+`https://www.ft.com/__origami/service/image/v2/images/raw/ftbrand-v1:{brand_name}?source={product_source}`
 
 So to get the Brussels Blog:
 `https://www.ft.com/__origami/service/image/v2/images/raw/ftbrand:brussels-blog?source=test`
