@@ -11,7 +11,7 @@ To get a brand image from the Image Service, use the following URL (replace the 
 `https://www.ft.com/__origami/service/image/v2/images/raw/ftbrand-v1:{brand_name}?source={product_source}`
 
 So to get the Brussels Blog:
-`https://www.ft.com/__origami/service/image/v2/images/raw/ftbrand:brussels-blog?source=test`
+`https://www.ft.com/__origami/service/image/v2/images/raw/ftbrand-v1:brussels-blog?source=test`
 
 ### Getting these brand images in a different colour/format/size
 
@@ -26,9 +26,7 @@ To keep brand images consistent, please follow these guidelines:
 - Filenames must be all lower-case hyphenated.
 	- **good**: brussels-blog.png, larry-summers-blog.svg
 	- **bad**: LunchWithTheFT.png
-- Vector images should be SVGs
-- Photos of people should be jpegs
-- Non-vector Illustrations should be pngs
+- Images must be pngs
 
 **Please do not delete brand images without talking to the Origami team who will need to manage the deprecation process**
 
