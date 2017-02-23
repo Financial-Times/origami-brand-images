@@ -1,1 +1,91 @@
-{}
+{
+	"sourceDirectory": "src",
+	"scheme": "ftbrand",
+	"images": [
+		{
+			"name": "andrew-mcafees-blog",
+			"extension": "png",
+			"path": "src/andrew-mcafees-blog.png"
+		},
+		{
+			"name": "brussels-blog",
+			"extension": "png",
+			"path": "src/brussels-blog.png"
+		},
+		{
+			"name": "dave-allen-greens-blog",
+			"extension": "png",
+			"path": "src/dave-allen-greens-blog.png"
+		},
+		{
+			"name": "ft-data",
+			"extension": "gif",
+			"path": "src/ft-data.gif"
+		},
+		{
+			"name": "ft-logo",
+			"extension": "gif",
+			"path": "src/ft-logo.gif"
+		},
+		{
+			"name": "gavyn-davies-blog",
+			"extension": "png",
+			"path": "src/gavyn-davies-blog.png"
+		},
+		{
+			"name": "gideon-rachman",
+			"extension": "png",
+			"path": "src/gideon-rachman.png"
+		},
+		{
+			"name": "instant-insight",
+			"extension": "png",
+			"path": "src/instant-insight.png"
+		},
+		{
+			"name": "larry-summers-blog",
+			"extension": "png",
+			"path": "src/larry-summers-blog.png"
+		},
+		{
+			"name": "lex-live",
+			"extension": "png",
+			"path": "src/lex-live.png"
+		},
+		{
+			"name": "lex",
+			"extension": "png",
+			"path": "src/lex.png"
+		},
+		{
+			"name": "martin-sandbus-free-lunch",
+			"extension": "png",
+			"path": "src/martin-sandbus-free-lunch.png"
+		},
+		{
+			"name": "mba-blog",
+			"extension": "png",
+			"path": "src/mba-blog.png"
+		},
+		{
+			"name": "nick-butler",
+			"extension": "png",
+			"path": "src/nick-butler.png"
+		},
+		{
+			"name": "tech_hub_badge",
+			"extension": "png",
+			"path": "src/tech_hub_badge.png"
+		},
+		{
+			"name": "the-exchange",
+			"extension": "png",
+			"path": "src/the-exchange.png"
+		},
+		{
+			"name": "westminster-blog",
+			"extension": "png",
+			"path": "src/westminster-blog.png"
+		}
+	]
+}
