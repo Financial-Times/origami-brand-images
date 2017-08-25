@@ -90,12 +90,12 @@
 		{
 			"name": "brand-lifearts",
 			"extension": "svg",
-			"path": "src/brand-life&arts.svg"
+			"path": "src/brand-life-and-arts.svg"
 		},
 		{
 			"name": "brand-househome",
 			"extension": "svg",
-			"path": "src/brand-house&home.svg"
+			"path": "src/brand-house-and-home.svg"
 		},
 		{
 			"name": "brand-ftmoney",
