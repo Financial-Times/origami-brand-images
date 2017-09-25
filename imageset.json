@@ -86,6 +86,26 @@
 			"name": "westminster-blog",
 			"extension": "png",
 			"path": "src/westminster-blog.png"
+		},
+		{
+			"name": "brand-lifearts",
+			"extension": "svg",
+			"path": "src/brand-life-and-arts.svg"
+		},
+		{
+			"name": "brand-househome",
+			"extension": "svg",
+			"path": "src/brand-house-and-home.svg"
+		},
+		{
+			"name": "brand-ftmoney",
+			"extension": "svg",
+			"path": "src/brand-ft-money.svg"
+		},
+		{
+			"name": "brand-ftmagazine",
+			"extension": "svg",
+			"path": "src/brand-ft-magazine.svg"
 		}
 	]
 }
