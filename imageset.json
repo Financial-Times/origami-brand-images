@@ -8,6 +8,26 @@
 			"path": "src/andrew-mcafees-blog.png"
 		},
 		{
+			"name": "brand-ft-magazine",
+			"extension": "svg",
+			"path": "src/brand-ft-magazine.svg"
+		},
+		{
+			"name": "brand-ft-money",
+			"extension": "svg",
+			"path": "src/brand-ft-money.svg"
+		},
+		{
+			"name": "brand-house-and-home",
+			"extension": "svg",
+			"path": "src/brand-house-and-home.svg"
+		},
+		{
+			"name": "brand-life-and-arts",
+			"extension": "svg",
+			"path": "src/brand-life-and-arts.svg"
+		},
+		{
 			"name": "brussels-blog",
 			"extension": "png",
 			"path": "src/brussels-blog.png"
@@ -86,26 +106,6 @@
 			"name": "westminster-blog",
 			"extension": "png",
 			"path": "src/westminster-blog.png"
-		},
-		{
-			"name": "brand-lifearts",
-			"extension": "svg",
-			"path": "src/brand-life-and-arts.svg"
-		},
-		{
-			"name": "brand-househome",
-			"extension": "svg",
-			"path": "src/brand-house-and-home.svg"
-		},
-		{
-			"name": "brand-ftmoney",
-			"extension": "svg",
-			"path": "src/brand-ft-money.svg"
-		},
-		{
-			"name": "brand-ftmagazine",
-			"extension": "svg",
-			"path": "src/brand-ft-magazine.svg"
 		}
 	]
 }
