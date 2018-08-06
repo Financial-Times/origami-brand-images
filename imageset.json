@@ -6,126 +6,147 @@
 			"name": "andrew-mcafees-blog",
 			"extension": "png",
 			"path": "src/andrew-mcafees-blog.png",
+			"previousHash": "ef29d4d1f1bf5882ba574e0bf69856ccb59395ee1f83bb02da8b95a51edbbf2e9bfefc5c5d3a9bcaf3424557cb29492aca8f22515bb51f0288e28f9f6bd97643",
 			"hash": "ef29d4d1f1bf5882ba574e0bf69856ccb59395ee1f83bb02da8b95a51edbbf2e9bfefc5c5d3a9bcaf3424557cb29492aca8f22515bb51f0288e28f9f6bd97643"
 		},
 		{
 			"name": "brand-ft-magazine",
 			"extension": "svg",
 			"path": "src/brand-ft-magazine.svg",
+			"previousHash": "90dd760bfa1ce5c281c88b9743fc575752eadca87dd9daf6b7addaeb085015eee0cb41a47a4794375a4ea8b6f9b80301fffce98b2cd29f0b4f98ecd07da36d47",
 			"hash": "90dd760bfa1ce5c281c88b9743fc575752eadca87dd9daf6b7addaeb085015eee0cb41a47a4794375a4ea8b6f9b80301fffce98b2cd29f0b4f98ecd07da36d47"
 		},
 		{
 			"name": "brand-ft-money",
 			"extension": "svg",
 			"path": "src/brand-ft-money.svg",
+			"previousHash": "61d5ede633ce3362ba24be5f9c4ffc19667b4445641337595d96309021d3b79122cad75e3c7aec92966066e2be8d7ca5bd4abd5c6fbc2e2ac74655b7b69b4f25",
 			"hash": "61d5ede633ce3362ba24be5f9c4ffc19667b4445641337595d96309021d3b79122cad75e3c7aec92966066e2be8d7ca5bd4abd5c6fbc2e2ac74655b7b69b4f25"
 		},
 		{
 			"name": "brand-house-and-home",
 			"extension": "svg",
 			"path": "src/brand-house-and-home.svg",
+			"previousHash": "4b0583d0012435ccc016143a5e92e2de06f05b6c7a29cca8a4e497df4266790d59a5462df8a4a106aebeb595832d27ae606c86e07d031d9d00a9aee132afb2a7",
 			"hash": "4b0583d0012435ccc016143a5e92e2de06f05b6c7a29cca8a4e497df4266790d59a5462df8a4a106aebeb595832d27ae606c86e07d031d9d00a9aee132afb2a7"
 		},
 		{
 			"name": "brand-life-and-arts",
 			"extension": "svg",
 			"path": "src/brand-life-and-arts.svg",
+			"previousHash": "ede0daa6440b6957c5a53af7e7303b47aeefc59aed52014b9ea2c8befe4022cfaa97db3c07cf96ef33922a461f23cb17a508acf2f8b6eef5c5227fa251003efc",
 			"hash": "ede0daa6440b6957c5a53af7e7303b47aeefc59aed52014b9ea2c8befe4022cfaa97db3c07cf96ef33922a461f23cb17a508acf2f8b6eef5c5227fa251003efc"
 		},
 		{
 			"name": "brussels-blog",
 			"extension": "png",
 			"path": "src/brussels-blog.png",
+			"previousHash": "ca51ff91eb5f2fe82238644d41bb3136a9cdacfcbb20bf1669bd66faf453476d97c0b2d55eb2ce1eefe7f3154bbf18cf6b401b0cdeb68ea9c0df8a5b9e5fb8e7",
 			"hash": "ca51ff91eb5f2fe82238644d41bb3136a9cdacfcbb20bf1669bd66faf453476d97c0b2d55eb2ce1eefe7f3154bbf18cf6b401b0cdeb68ea9c0df8a5b9e5fb8e7"
 		},
 		{
 			"name": "dave-allen-greens-blog",
 			"extension": "png",
 			"path": "src/dave-allen-greens-blog.png",
+			"previousHash": "2629688e4f5c42c20dd392a5d11ff101c6c0b82dca16045e13be8b66634a4d0bdaf6a5d0fa85b99e281cd9ef600e8c96ab264bdffd47775ae3de2aafe67d10a3",
 			"hash": "2629688e4f5c42c20dd392a5d11ff101c6c0b82dca16045e13be8b66634a4d0bdaf6a5d0fa85b99e281cd9ef600e8c96ab264bdffd47775ae3de2aafe67d10a3"
 		},
 		{
 			"name": "ft-data",
 			"extension": "gif",
 			"path": "src/ft-data.gif",
+			"previousHash": "46f7d1eeb018eb2f694cc6f1c14ead8047c12b12cde2a308536da5f2f6a025625d61f484f9c7b333e04ddc2662d14cecb37dbdded693bd8074804afdb518ebb0",
 			"hash": "46f7d1eeb018eb2f694cc6f1c14ead8047c12b12cde2a308536da5f2f6a025625d61f484f9c7b333e04ddc2662d14cecb37dbdded693bd8074804afdb518ebb0"
 		},
 		{
 			"name": "ft-logo",
 			"extension": "gif",
 			"path": "src/ft-logo.gif",
+			"previousHash": "55a412aed38536b449de16840d4c9f25deba2091e3dd62a738f455cdb7fb720a7ae078d71040344420abf9fca394a66606db6adb651b4ef96a73ca942d552cf4",
 			"hash": "55a412aed38536b449de16840d4c9f25deba2091e3dd62a738f455cdb7fb720a7ae078d71040344420abf9fca394a66606db6adb651b4ef96a73ca942d552cf4"
 		},
 		{
 			"name": "gavyn-davies-blog",
 			"extension": "png",
 			"path": "src/gavyn-davies-blog.png",
+			"previousHash": "0427cb9e3c1e39830115c9b0d039ed258ab46331fc54a3faec35914aa301873d0f85b8c203eb6bc736dc14e1ab88ed8c2108d17c8ee86a3de6969672884f8a96",
 			"hash": "0427cb9e3c1e39830115c9b0d039ed258ab46331fc54a3faec35914aa301873d0f85b8c203eb6bc736dc14e1ab88ed8c2108d17c8ee86a3de6969672884f8a96"
 		},
 		{
 			"name": "gideon-rachman",
 			"extension": "png",
 			"path": "src/gideon-rachman.png",
+			"previousHash": "89b54423e4584de0602172fb0e611633aeca18620a2d15e8b6f8e6c9f25cc9a04c7efeaa48c67cdcbf0e3446320421890bb2fcd2343469a32880d18105a0fcba",
 			"hash": "89b54423e4584de0602172fb0e611633aeca18620a2d15e8b6f8e6c9f25cc9a04c7efeaa48c67cdcbf0e3446320421890bb2fcd2343469a32880d18105a0fcba"
 		},
 		{
 			"name": "instant-insight",
 			"extension": "png",
 			"path": "src/instant-insight.png",
+			"previousHash": "f6a7128352d30ebfd282d4ea43cf4ee61f14bf30ad3d76b9229a4869cc8d40050606f36200814095de66eaddb30cdbcbbdd055cad282573153de91d5402e1d06",
 			"hash": "f6a7128352d30ebfd282d4ea43cf4ee61f14bf30ad3d76b9229a4869cc8d40050606f36200814095de66eaddb30cdbcbbdd055cad282573153de91d5402e1d06"
 		},
 		{
 			"name": "larry-summers-blog",
 			"extension": "png",
 			"path": "src/larry-summers-blog.png",
+			"previousHash": "2f4f23ba3f40e623b74b3c23cff48962a6fc971f7f87e34425216634ba375c6cebd52daae8a052d6cac2dab42c11be5111ba12dcac06d8691371a8a1f36a5f59",
 			"hash": "2f4f23ba3f40e623b74b3c23cff48962a6fc971f7f87e34425216634ba375c6cebd52daae8a052d6cac2dab42c11be5111ba12dcac06d8691371a8a1f36a5f59"
 		},
 		{
 			"name": "lex-live",
 			"extension": "png",
 			"path": "src/lex-live.png",
+			"previousHash": "ecdebc2268e951234cab2a5e56420371e0b05c76d147bd69f7b17a49bcfd4fc8f477fc1552a92c7efa7b2883d536ac17b798fc7f8b0e972f733d59f04ae35fc9",
 			"hash": "ecdebc2268e951234cab2a5e56420371e0b05c76d147bd69f7b17a49bcfd4fc8f477fc1552a92c7efa7b2883d536ac17b798fc7f8b0e972f733d59f04ae35fc9"
 		},
 		{
 			"name": "lex",
 			"extension": "png",
 			"path": "src/lex.png",
+			"previousHash": "71002a3b4e3d76600c34884a0975d5a4d4e9463d80fc6f41b5989ab3494f3e229f3b296cb7e6ae0ca762c1715b64348976d279b992e23d1a9b743fa657292294",
 			"hash": "71002a3b4e3d76600c34884a0975d5a4d4e9463d80fc6f41b5989ab3494f3e229f3b296cb7e6ae0ca762c1715b64348976d279b992e23d1a9b743fa657292294"
 		},
 		{
 			"name": "martin-sandbus-free-lunch",
 			"extension": "png",
 			"path": "src/martin-sandbus-free-lunch.png",
+			"previousHash": "b39e453ca68a92a4f99fb478d2fdd07db1e36ddc586aa1893e6f5550e0e5440f06f034d253c16a42dd08df020528784f31fd53f0ed007a2b95143accde0ce5a5",
 			"hash": "b39e453ca68a92a4f99fb478d2fdd07db1e36ddc586aa1893e6f5550e0e5440f06f034d253c16a42dd08df020528784f31fd53f0ed007a2b95143accde0ce5a5"
 		},
 		{
 			"name": "mba-blog",
 			"extension": "png",
 			"path": "src/mba-blog.png",
+			"previousHash": "58639a8e9ef3a334b5a27270cc046c8c2c3094bcc08051f0e36979e09fbd0bd792c298fc23e0a4e0035627a000c25f2c39f2bbf82a2cc77696bbfd0e0c51a0a1",
 			"hash": "58639a8e9ef3a334b5a27270cc046c8c2c3094bcc08051f0e36979e09fbd0bd792c298fc23e0a4e0035627a000c25f2c39f2bbf82a2cc77696bbfd0e0c51a0a1"
 		},
 		{
 			"name": "nick-butler",
 			"extension": "png",
 			"path": "src/nick-butler.png",
+			"previousHash": "bf22c191ed8018b540ed423c6d8ec2997d105d55065cb25f1ad7f33af9cd1e01a758c471935d3b3dece710457742d42075d8804c41f29c43d0ffad395d5a6b68",
 			"hash": "bf22c191ed8018b540ed423c6d8ec2997d105d55065cb25f1ad7f33af9cd1e01a758c471935d3b3dece710457742d42075d8804c41f29c43d0ffad395d5a6b68"
 		},
 		{
 			"name": "tech_hub_badge",
 			"extension": "png",
 			"path": "src/tech_hub_badge.png",
+			"previousHash": "ed3d602b28c81fadf36fca9ccebb32a9ac3d32b453d09c6399c4ccea600603ffc7468e979ba9a82e934df3ce96462109c9b07d538e3b365d1dee4d76dce45a9a",
 			"hash": "ed3d602b28c81fadf36fca9ccebb32a9ac3d32b453d09c6399c4ccea600603ffc7468e979ba9a82e934df3ce96462109c9b07d538e3b365d1dee4d76dce45a9a"
 		},
 		{
 			"name": "the-exchange",
 			"extension": "png",
 			"path": "src/the-exchange.png",
+			"previousHash": "e74fe658c0e10ac56e42a7e67a746950c6cdb2619079d9232a7dcf58711ef9efe20449e58feb5c64e4d7fc6001295939bd47e92ae5c229bdf6e1c0a8cf0bca18",
 			"hash": "e74fe658c0e10ac56e42a7e67a746950c6cdb2619079d9232a7dcf58711ef9efe20449e58feb5c64e4d7fc6001295939bd47e92ae5c229bdf6e1c0a8cf0bca18"
 		},
 		{
 			"name": "westminster-blog",
 			"extension": "png",
 			"path": "src/westminster-blog.png",
+			"previousHash": "9e27be8ec2a1939016d331a48b9162968c4fd5390391a45f8e56d8db880f8c6cf996ef5e0062e802c6cc7516a131a002ea379f43a935af0514c7be94723da868",
 			"hash": "9e27be8ec2a1939016d331a48b9162968c4fd5390391a45f8e56d8db880f8c6cf996ef5e0062e802c6cc7516a131a002ea379f43a935af0514c7be94723da868"
 		}
 	]
