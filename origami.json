@@ -1,6 +1,7 @@
 
 {
-    "description": "Images for FT Brands",
+    "description": "A collection of images for FT brands, such as blogs or specific sections",
+    "keywords": [ "image", "logo", "logos", "brand" ],
     "origamiType": "imageset",
     "origamiVersion": 1,
     "support": "https://github.com/Financial-Times/brand-images/issues",
