@@ -33,7 +33,7 @@ To keep brand images consistent, please follow these guidelines:
 ---
 ## Questions or comments?
 
-Please [raise an issue](https://github.com/Financial-Times/origami-brand-images/issues), or Internal FT users can contact us via [#ft-origami in Slack](https://financialtimes.slack.com/messages/ft-origami/).
+Please [raise an issue](https://github.com/Financial-Times/origami-brand-images/issues), or Internal FT users can contact us via [#origami-support in Slack](https://financialtimes.slack.com/messages/origami-support/).
 
 ## Licence
 
