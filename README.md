@@ -1,4 +1,4 @@
-# Brand images [![Build status](https://img.shields.io/circleci/project/Financial-Times/origami-brand-images.svg)](https://circleci.com/gh/Financial-Times/origami-brand-images) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](#licence)
+# Brand images [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](#licence)
 
 An image set of images of FT editorial brands for use with bylines (eg Brussels blog, Lex)
 
