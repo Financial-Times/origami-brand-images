@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/origami-brand-images",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "engines": {
     "node": "^10"
   },
